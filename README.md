@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CraxYeD
 - 👀 I’m interested in gaming ,coding and we go jim 💪 
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning java and blender
 
 
 
